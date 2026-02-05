@@ -1,16 +1,61 @@
-## Hi there 👋
+## Hi there 👋, I’m Safva
 
-<!--
-**fsafva13-coder/fsafva13-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student exploring intelligent systems, modern AI tools, and problem-solving through hands-on learning.
 
-Here are some ideas to get you started:
+I use this space to:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Document my learning journey
+
+Experiment with AI tools and workflows
+
+Build structured projects and prototypes
+
+Track progress through challenges and coursework
+
+## 🌱 Currently Learning
+
+Core computer science concepts
+
+AI systems and prompt-based workflows
+
+Python and practical experimentation
+
+Version control and technical documentation
+
+## 🧠 Areas of Interest
+
+Intelligent systems
+
+Applied AI tools
+
+Automation concepts
+
+Structured problem solving
+
+Continuous learning through projects
+
+## 🛠 Tools & Technologies
+
+Python
+
+Git & GitHub
+
+No-code / low-code AI platforms
+
+Prompt engineering
+
+Documentation & experimentation workflows
+
+## 📌 Current Focus
+
+Strengthening fundamentals
+
+Understanding how AI systems behave in real use cases
+
+Improving clarity, evaluation, and structure in AI outputs
+
+## 📫 Let’s Connect
+
+LinkedIn: www.linkedin.com/in/fathima-safva-578294315
+
+### ⭐ This profile reflects my learning process and ongoing exploration.
