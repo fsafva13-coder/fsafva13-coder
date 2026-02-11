@@ -1,6 +1,6 @@
 ## Hi there 👋, I’m Safva
 
-I’m a Computer Science student exploring intelligent systems, modern AI tools, and problem-solving through hands-on learning.
+I’m a BSc Computer Science student at the University of West London exploring intelligent systems, modern AI tools, and problem-solving through hands-on learning.
 
 I use this space to:
 
