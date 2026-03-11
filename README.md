@@ -17,9 +17,7 @@ I use this space to document my journey in technology, experiment with AI tools,
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=fsafva13-coder&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
-
 ## 🌱 Currently Learning
 - Core computer science fundamentals  
 - Artificial Intelligence concepts and workflows  
