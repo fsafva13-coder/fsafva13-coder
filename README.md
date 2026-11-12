@@ -1,13 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2a6d&height=110&section=header&text=&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:3a0ca3,100:05d9e8&height=110&section=header&text=&animation=fadeIn" />
 
 # FATHIMA SAFVA
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3000&pause=900&color=05D9E8&center=true&vCenter=true&width=640&height=40&lines=AI+Security+%C2%B7+Adversarial+ML;Prompt+Injection+Defence;Explainability+Under+Attack;Backend+AI+Engineering" alt="Roles" />
 
 ![Location](https://img.shields.io/badge/Dubai%2C%20UAE-05d9e8?style=for-the-badge&labelColor=040408)
-![Degree](https://img.shields.io/badge/BSc%20CS%20%C2%B7%20University%20of%20West%20London-ff2a6d?style=for-the-badge&labelColor=040408)
+![Degree](https://img.shields.io/badge/BSc%20CS%20%C2%B7%20University%20of%20West%20London-7b2ff7?style=for-the-badge&labelColor=040408)
 ![Focus](https://img.shields.io/badge/Focus-AI%20Security-f5c542?style=for-the-badge&labelColor=040408)
 
 </div>
@@ -20,6 +20,7 @@ Final-year BSc Computer Science student (IET-accredited) focused on **AI securit
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| **[Alibi](https://github.com/fsafva13-coder/alibi)** — PayPal AI Hackathon | Checkpoint between AI shopping agents and PayPal that stops prompt-injected payments. A payment goes through only if its payee, amount and item trace back to the customer's words or the merchant's verified listing; anything else is held for approval, and a receipt is attached to the payout. In testing, a real Gemini agent was fooled by 2 of 8 injection attacks; Alibi blocked both, and 0 of 3 honest purchases were held. [Live demo](https://alibi-0tv9.onrender.com) | PayPal REST API & Payouts, Gemini, FastAPI, AG Grid, Render |
 | **[Kaaval](https://github.com/fsafva13-coder/kaaval)** — Nebius × NVIDIA Global AI Hackathon | Customer-chat assistant that confirms and blocks fraudsters writing in code-mixed language (English, Manglish, Arabizi, Hinglish). Four-step trust ladder: a block needs two independent signals plus a model review that quotes evidence. Nemotron raised fraud blocked from 54% to 85% on a development set; on a held-out test, 0 of 8 fraud attempts obtained the owner's details and 0 of 10 genuine conversations were blocked. | NVIDIA Nemotron, Nebius Token Factory, FastAPI, React |
 | **[LUMEN](https://github.com/fsafva13-coder/lumen)** — OpenCV AI Competition 2026 | Proof-of-life face verification using random colour flashes and head turns that photos, screen replays and injected video cannot reproduce. Small pilot (2 participants, one webcam): 9 of 10 real sessions verified, 1 of 11 attack sessions passed. | OpenCV 5, AWS Lambda, Python |
 | **[Tend](https://github.com/fsafva13-coder/tend)** — Amazon Developer Hackathon | Alexa+ caregiving agent: an MCP server with 15 tools and a deterministic rules engine (14 rules, 44 automated tests) that runs an elderly parent's day at home, with no language model in the safety path. | Model Context Protocol, Python, pytest |
@@ -48,8 +49,8 @@ Final-year BSc Computer Science student (IET-accredited) focused on **AI securit
 
 **Languages** Python · Java · SQL · JavaScript · HTML5 · CSS · C#
 **AI & ML** Machine Learning · NLP · Computer Vision · Scikit-learn · TensorFlow · Keras · YOLOv8 · ByteTrack · OpenCV · NLTK · face-api.js · NVIDIA Nemotron
-**AI security** Prompt injection defence · liveness and anti-spoofing · fraud detection · rate limiting · tenant-isolated authentication · adversarial ML (foundational)
-**Platforms & tools** FastAPI · ASP.NET Core · PostgreSQL · Supabase · Docker · AWS Lambda · Model Context Protocol · Groq / Llama 3 · Streamlit · pytest
+**AI security** Prompt injection defence · agent payment security (provenance tracking) · liveness and anti-spoofing · fraud detection · rate limiting · tenant-isolated authentication · adversarial ML (foundational)
+**Platforms & tools** FastAPI · ASP.NET Core · PostgreSQL · Supabase · Docker · AWS Lambda · Render · PayPal REST API · Model Context Protocol · Groq / Llama 3 · Gemini · AG Grid · Streamlit · pytest
 **Data** NumPy · Pandas · Matplotlib · Seaborn · SciPy
 
 ## ◈ More repositories
@@ -76,9 +77,9 @@ AWS — Fundamentals of Machine Learning and AI (2026) · Anthropic — AI Fluen
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fathima%20Safva-ff2a6d?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=040408)](https://www.linkedin.com/in/fathima-safva-578294315)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fathima%20Safva-7b2ff7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=040408)](https://www.linkedin.com/in/fathima-safva-578294315)
 [![Email](https://img.shields.io/badge/Email-fsafva13%40gmail.com-05d9e8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=040408)](mailto:fsafva13@gmail.com)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2a6d&height=90&section=footer&text=&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:3a0ca3,100:05d9e8&height=90&section=footer&text=&animation=fadeIn" />
 
 </div>
